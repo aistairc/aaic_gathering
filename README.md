@@ -3,7 +3,7 @@
 ## 2017年度
 
 * 第1回(2017年5月31日) AAICユーザ説明会
-* [第2回(2017年8月31日) ChainerMN](https://github.com/htsst/aaic_gathering/tree/master/2)
+* [第2回(2017年8月31日) ChainerMN](2)
 
 ## 注意事項
 
