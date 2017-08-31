@@ -8,7 +8,7 @@
 - [pyenvの使い方](2_pyenv_usage.ipynb)
 
 ### pipを用いてPythonパッケージをインストールする方法
-- [ChainerMNのインストール方法](3_chainermn_installation.ipynb)
+- [ChainerMNのインストール方法](3_chainermn_install.ipynb)
 
 ## ChainerMNの実行方法
 - [mnistのサンプルを用いたChainerMNのコードの説明](4_chainermn_code.ipynb)
