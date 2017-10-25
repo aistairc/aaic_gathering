@@ -24,3 +24,4 @@
 
 ## カスタマイズしたコンテナイメージの作成
 - [Singularityイメージの作成方法](7_singularity_image_build.ipynb)
+- [実例](8_singularity_with_application.ipynb)
