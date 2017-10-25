@@ -1,0 +1,1 @@
+SINGULARITYENV_PYTHONPATH=. SINGULARITYENV_STRONGSUP_DIR=./data singularity exec --nv lang2program-1.0.img  python scripts/main.py configs/rlong/best-scene.txt
